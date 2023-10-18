@@ -14,7 +14,7 @@ This mod adds provolver / Protube support to the game Guardians Frontline
 
 3. Select melonloader **0.5.7** and click on Install (uncheck the "latest" box on the side)
 
-4. **Download** [Mod zip file](https://github.com/Astienth/Provolver_SuperHot/releases/download/1.0/Provolver_SuperHot.zip) and **extract** into \Guardians Frontline\Mods\
+4. **Download** [Mod zip file](https://github.com/Astienth/Guardians_Frontline_Protube/releases/download/1.0/GuardiansFrontline_Protube.zip) and **extract** into \Guardians Frontline\Mods\
 
 5. Turn your provolver on and run the game
 
